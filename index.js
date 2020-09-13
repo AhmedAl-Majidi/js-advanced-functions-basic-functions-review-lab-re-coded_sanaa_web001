@@ -10,10 +10,10 @@ let mondayWork = function(activity = "go to the office") {
 function wrapAdjective(x) {
   return function() {
     if (x==="*") {
-      
+
     }
     if (x===||) {
-      
+
     }
   }
 }
